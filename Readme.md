@@ -79,4 +79,4 @@ The `GA` class handles the genetic algorithm operations, including population in
 
 ## Usage
 
-To use this GA implementation, you can use the makefile after cloning the repository and it will show the variance and standard deviation of a randomly generated gene pool.
+To use this GA implementation, you can use the 'make run' command in the makefile after cloning the repository and it will show the variance and standard deviation of a randomly generated gene pool.
